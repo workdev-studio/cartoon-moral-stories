@@ -1,0 +1,171 @@
+[
+  {
+    "id": 1,
+    "title": "Sher Aur Chuha Ki Kahani",
+    "slug": "sher-aur-chuha-ki-kahani",
+    "category": "Animal Stories",
+    "categorySlug": "animal-stories",
+    "description": "Sher aur chuha ki ek interesting Hindi moral story jo hume dosti, daya aur madad ki seekh deti hai.",
+    "image": "images/sher-aur-chuha.webp",
+    "emoji": "🦁",
+    "moral": "Kisi ko chhota samajhkar uski madad ko kam nahi samajhna chahiye.",
+    "tags": [
+      "Hindi Moral Story",
+      "Kids Story",
+      "Animal Story",
+      "Sher Aur Chuha"
+    ],
+    "content": [
+      "Ek baar ek ghane jungle mein ek sher rehta tha. Ek din sher ek ped ke neeche aaram kar raha tha.",
+      "Tabhi ek chhota chuha khelte-khelte sher ke upar chadh gaya. Sher ki neend khul gayi aur woh gusse mein aa gaya.",
+      "Sher chuhe ko pakadne wala tha, tab chuhe ne maafi maangi aur kaha ki shayad ek din woh bhi sher ke kaam aa sakega.",
+      "Sher ko chuhe ki baat sunkar hasi aayi, lekin usne chuhe ko chhod diya.",
+      "Kuch din baad sher ek shikari ke jaal mein phans gaya. Sher bahut koshish karne ke baad bhi jaal se bahar nahi nikal saka.",
+      "Chuha wahan se guzar raha tha. Usne sher ki awaaz suni aur turant uski madad karne aa gaya.",
+      "Chuha apne tez daanton se jaal ko kaatne laga. Thodi der mein jaal toot gaya aur sher azaad ho gaya.",
+      "Sher ko samajh aa gaya ki chhota hone ka matlab kamzor hona nahi hota."
+    ]
+  },
+
+  {
+    "id": 2,
+    "title": "Lomdi Aur Angoor Ki Kahani",
+    "slug": "lomdi-aur-angoor-ki-kahani",
+    "category": "Animal Stories",
+    "categorySlug": "animal-stories",
+    "description": "Lomdi aur angoor ki famous Hindi moral story jo hume bahane banane ke bajay sach ko accept karna sikhati hai.",
+    "image": "images/lomdi-aur-angoor.webp",
+    "emoji": "🦊",
+    "moral": "Jo cheez hasil na ho sake, uske liye bahane nahi banane chahiye.",
+    "tags": [
+      "Hindi Moral Story",
+      "Kids Story",
+      "Lomdi Ki Kahani",
+      "Angoor Ki Kahani"
+    ],
+    "content": [
+      "Ek din ek bhookhi lomdi jungle mein khana dhoondh rahi thi.",
+      "Bahut der tak ghoomne ke baad uski nazar ek bel par lage hue meethe angooron par padi.",
+      "Angoor bahut sundar aur rasbhare dikh rahe the. Lomdi unhe khana chahti thi.",
+      "Lomdi ne angooron tak pahunchne ke liye kai baar uchhalne ki koshish ki.",
+      "Lekin angoor bahut upar the aur lomdi un tak nahi pahunch paayi.",
+      "Kai baar koshish karne ke baad lomdi thak gayi.",
+      "Aakhir mein lomdi wahan se jaate hue boli ki angoor shayad khatte hi honge.",
+      "Lekin sach ye tha ki lomdi un angooron tak pahunch nahi paayi thi."
+    ]
+  },
+
+  {
+    "id": 3,
+    "title": "Kauwa Aur Lomdi Ki Kahani",
+    "slug": "kauwa-aur-lomdi-ki-kahani",
+    "category": "Animal Stories",
+    "categorySlug": "animal-stories",
+    "description": "Kauwa aur lomdi ki interesting Hindi moral story jo hume jhoothi tareef se bachne ki seekh deti hai.",
+    "image": "images/kauwa-aur-lomdi.webp",
+    "emoji": "🐦",
+    "moral": "Jhoothi tareef par jaldi vishwas nahi karna chahiye.",
+    "tags": [
+      "Hindi Moral Story",
+      "Kids Story",
+      "Kauwa Aur Lomdi",
+      "Animal Story"
+    ],
+    "content": [
+      "Ek din ek kauwa ek ped ki daali par roti ka tukda lekar baitha tha.",
+      "Ek chalak lomdi ki nazar kauwe aur uski roti par pad gayi.",
+      "Lomdi roti paana chahti thi, isliye usne kauwe ki tareef karni shuru kar di.",
+      "Lomdi ne kaha ki kauwa bahut sundar dikhta hai aur shayad uski awaaz bhi bahut pyari hogi.",
+      "Kauwa lomdi ki tareef sunkar khush ho gaya.",
+      "Lomdi ne kaha ki agar kauwa ek gaana gaaye to woh uski awaaz sun sakti hai.",
+      "Jaise hi kauwe ne gaane ke liye apna muh khola, roti neeche gir gayi.",
+      "Lomdi ne turant roti uthayi aur wahan se bhaag gayi.",
+      "Kauwe ko samajh aa gaya ki lomdi ne jhoothi tareef karke use bewakoof banaya tha."
+    ]
+  },
+
+  {
+    "id": 4,
+    "title": "Pyaasa Kauwa Ki Kahani",
+    "slug": "pyaasa-kauwa-ki-kahani",
+    "category": "Moral Stories",
+    "categorySlug": "moral-stories",
+    "description": "Pyaasa kauwa ki Hindi moral story jo bachchon ko samasya ka hal dhoondhne aur himmat na haarne ki seekh deti hai.",
+    "image": "images/pyaasa-kauwa.webp",
+    "emoji": "🐦",
+    "moral": "Buddhi aur mehnat se mushkil samasya ka hal nikala ja sakta hai.",
+    "tags": [
+      "Hindi Moral Story",
+      "Pyaasa Kauwa",
+      "Kids Story",
+      "Moral Story"
+    ],
+    "content": [
+      "Ek bahut garm din ek kauwa bahut pyasa tha.",
+      "Kauwa paani ki talaash mein idhar-udhar udta raha.",
+      "Kuch der baad use ek matka dikhai diya.",
+      "Kauwa matke ke paas gaya aur usne dekha ki matke mein thoda sa paani tha.",
+      "Kauwe ki chonch paani tak nahi pahunch rahi thi.",
+      "Kauwe ne aas-paas pade chhote patthar dekhe.",
+      "Usne ek-ek karke patthar matke mein daalne shuru kiye.",
+      "Patthar daalne se paani dheere-dheere upar aa gaya.",
+      "Kauwe ne paani piya aur apni pyas bujha li."
+    ]
+  },
+
+  {
+    "id": 5,
+    "title": "Khargosh Aur Kachhua Ki Kahani",
+    "slug": "khargosh-aur-kachhua-ki-kahani",
+    "category": "Kids Stories",
+    "categorySlug": "kids-stories",
+    "description": "Khargosh aur kachhua ki famous Hindi moral story jo hume patience aur lagatar mehnat ki seekh deti hai.",
+    "image": "images/khargosh-aur-kachhua.webp",
+    "emoji": "🐇",
+    "moral": "Dheere chalne wala bhi lagatar mehnat se jeet sakta hai.",
+    "tags": [
+      "Hindi Moral Story",
+      "Khargosh Aur Kachhua",
+      "Kids Story",
+      "Animal Story"
+    ],
+    "content": [
+      "Ek jungle mein ek khargosh aur ek kachhua rehte the.",
+      "Khargosh apni tez daud par bahut ghamand karta tha.",
+      "Ek din khargosh ne kachhua ka mazaak udaya.",
+      "Kachhua ne khargosh ko race ki chunauti de di.",
+      "Race shuru hui aur khargosh bahut tez bhaag kar aage nikal gaya.",
+      "Khargosh ne socha ki kachhua bahut peeche hai, isliye woh ped ke neeche aaram karne laga.",
+      "Kachhua dheere-dheere bina ruke aage badhta raha.",
+      "Khargosh so gaya aur kachhua finish line tak pahunch gaya.",
+      "Jab khargosh ki aankh khuli to kachhua race jeet chuka tha."
+    ]
+  },
+
+  {
+    "id": 6,
+    "title": "Do Bakriyon Ki Kahani",
+    "slug": "do-bakriyon-ki-kahani",
+    "category": "Moral Stories",
+    "categorySlug": "moral-stories",
+    "description": "Do bakriyon ki Hindi moral story jo hume gusse ke bajay samajhdari se kaam lene ki seekh deti hai.",
+    "image": "images/do-bakriyon-ki-kahani.webp",
+    "emoji": "🐐",
+    "moral": "Jid aur gusse se nuksan ho sakta hai, isliye samajhdari se kaam lena chahiye.",
+    "tags": [
+      "Hindi Moral Story",
+      "Do Bakriyan",
+      "Kids Story",
+      "Moral Story"
+    ],
+    "content": [
+      "Ek baar do bakriyan ek chhote pul par aamne-saamne aa gayin.",
+      "Pul itna chhota tha ki dono ek saath usse paar nahi kar sakti thi.",
+      "Dono bakriyan ek doosre ko raasta dene ke liye taiyar nahi thi.",
+      "Dono gusse mein ek doosre ko dhakka dene lagi.",
+      "Aakhir mein dono ka santulan bigad gaya aur dono neeche gir gayin.",
+      "Agar dono mein se ek bakri thoda intezar kar leti to dono aasani se pul paar kar sakti thi.",
+      "Is kahani se hume samajh aata hai ki gusse aur zid se aksar nuksan hota hai."
+    ]
+  }
+]
